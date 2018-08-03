@@ -430,6 +430,7 @@
 - [andynur](https://github.com/andynur)
 - [joel7871](https://github.com/joel7871)
 - [Shiny](https://github.com/Shine0707)
+  [Caitlin Halla](https://github.com/caitlinhalla)
 - [Blinky Bloomberg](https://github.com/carly000)
 - [heroccccc](https://github.com/heroccccc)
 - [Kelly von Borstel](https://github.com/vonborke)
